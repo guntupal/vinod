@@ -3,3 +3,4 @@ __Biodata__
 * address:
 * qualification
 * hobbies
+* Goals
